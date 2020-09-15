@@ -1,0 +1,7 @@
+name: Basic Sample
+version: ${project.version}
+main: mckitsu.net.basicsample.BasicSample
+api-version: 1.16
+authors: [ ZxyKira ]
+description: This is a basic minecraft plugin sample.
+website: http://mckitsu.net/
