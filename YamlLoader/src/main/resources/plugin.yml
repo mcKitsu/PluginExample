@@ -1,0 +1,5 @@
+name: YamlLoader
+version: ${project.version}
+main: net.mckitsu.yamlloader.YamlLoader
+api-version: 1.16
+authors: [ ZxyKira ]
